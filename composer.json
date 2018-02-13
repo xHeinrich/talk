@@ -12,8 +12,8 @@
     ],
   "require": {
     "php": ">=5.5.9",
-    "illuminate/contracts": "~5.0.*",
-    "illuminate/support": "~5.0.*",
+    "illuminate/contracts": "^5.0.0",
+    "illuminate/support": "^5.0.0",
     "sebastian-berc/repositories": "^1.0",
     "nesbot/carbon": "^1.21",
     "pusher/pusher-php-server": "^3.0"
